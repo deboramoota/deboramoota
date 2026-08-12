@@ -1,16 +1,16 @@
-## Hi there 👋
+👋🏻 A little about me
 
-<!--
-**deboramoota/deboramoota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Technical High School student in Informatics at IFCE, Brazil.
 
-Here are some ideas to get you started:
+💻 I'm exploring different areas of technology and programming, while figuring out what I enjoy and what I want to pursue in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ I enjoy learning new things and working on projects that help me understand more about what I'm studying.
+
+🎧 A little more about me
+
+When I'm not studying, you'll probably find me listening to music, watching movies, reading or just discovering something new.
+
+🎵 Music lover
+🎬 Movie lover
+📚 Reader
+🌱 Still figuring out my path in tech
