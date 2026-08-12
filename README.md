@@ -1,4 +1,6 @@
-![Minha Foto](./deboraimagem.jpg)
+<p align="center">
+  <img src="./deboraimagem.jpg" alt="Minha Foto" width="300">
+</p>
 
 
 <div align="center">
