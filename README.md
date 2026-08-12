@@ -3,7 +3,7 @@
 </div>
 
 
-🎧 A little about me
+<h3>🎧 A little about me</h3>
 
 When I'm not studying, you'll probably find me listening to music, watching movies, reading or just discovering something new.
 
