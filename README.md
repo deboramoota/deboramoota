@@ -13,4 +13,3 @@ When I'm not studying, you'll probably find me listening to music, watching movi
 🎵 Music lover
 🎬 Movie lover
 📚 Reader
-🌱 Still figuring out my path in tech
