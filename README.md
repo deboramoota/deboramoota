@@ -1,5 +1,7 @@
 Hi, I'm Débora 💖💫
 
+🎧 A little about me
+
 When I'm not studying, you'll probably find me listening to music, watching movies, reading or just discovering something new.
 
 🎵 Music lover
