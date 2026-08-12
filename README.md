@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./deboraimagem.jpg" alt="Minha Foto" width="300">
+  <img src="./deboraimagem.jpg" alt="Minha Foto" width="100%">
 </p>
+
 
 
 <div align="center">
