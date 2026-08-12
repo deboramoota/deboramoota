@@ -1,4 +1,7 @@
-Hi, I'm Débora 💖💫
+<div align="center">
+  <h3>Hi, I'm Débora 💝💫</h3>
+</div>
+
 
 🎧 A little about me
 
