@@ -18,7 +18,7 @@ When I'm not studying, you'll probably find me listening to music, watching movi
 ✨ I enjoy learning new things and working on projects that help me understand more about what I'm studying.
 
 
-<h2 align="left" 📖 I have studied</h2>  <div align="left"> 
+<h2 align="left"> 📖 I have studied</h2>  <div align="left"> 
   <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />   <img width="12" />
   <!-- MySQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /> <img width="12" />
   <!-- PowerShell --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" alt="PShell Logo" /> <img width="12" />
